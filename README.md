@@ -1,1 +1,1 @@
-# -WordPress-installation-on-AWS-Ec2-using-Terraform
+# WordPress-installation-on-AWS-Ec2-using-Terraform
